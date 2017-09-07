@@ -1,0 +1,15 @@
+{
+  "name": "relay-form",
+  "version": "0.0.1",
+  "description": "The form decorator for relay and graphQL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mosoc/relay-form"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pojen Chen <mosoc@colle.co> (https://github.com/Mosoc)",
+  "license": "MIT"
+}
